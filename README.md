@@ -47,4 +47,4 @@ Python with Pandas, yfinance, BeautifulSoup, Plotly
 
 ## Authors
 
-* **Erkut Koral** - *Industrial Engineering Student* - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
+* **Erkut Koral** - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
